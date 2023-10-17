@@ -1,0 +1,25 @@
+.hello {
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 80px;
+}
+.image {
+    width: 100%;
+    height: 350px;
+}
+.texte{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(188, 193, 238);
+}
+.center {
+    text-align: center;
+}
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://as1.ftcdn.net/v2/jpg/02/42/47/76/1000_F_242477630_XSwpExLlBZti0gH6LPbFhVDzmb6uUgDs.jpg) ;
+}5
